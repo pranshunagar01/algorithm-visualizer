@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/algorithm-visualizer/static/js/main.a354d8d5.js",
+    "index.html": "/algorithm-visualizer/index.html",
+    "main.a354d8d5.js.map": "/algorithm-visualizer/static/js/main.a354d8d5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a354d8d5.js"
+  ]
+}
